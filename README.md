@@ -1,0 +1,2 @@
+# administrators
+Puppet administrators module.
